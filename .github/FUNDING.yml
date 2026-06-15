@@ -1,4 +1,2 @@
-# Default Sponsor button for all @oabdrabo repositories.
-# github: lights up once GitHub Sponsors is enabled; the Stripe link works now.
-github: [oabdrabo]
+# Default "Sponsor" button for all @oabdrabo repositories — Stripe pay-what-you-like.
 custom: ["https://donate.stripe.com/3cI6oI7Gh1PG0eV8MJ5kk00"]
